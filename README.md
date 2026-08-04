@@ -6,9 +6,9 @@ Each product within the Vinci ecosystem focuses on a specific problem while main
 
 # Vision
 
-To build modern, scalable, and user-friendly software that simplifies the way professionals work, collaborate, and manage their digital presence.
+The Vinci Project is a personal portfolio initiative created to explore, research, and develop software inspired by real-world industry needs. Its primary objective is to understand how practical digital products are designed, structured, and built, while documenting the complete journey from identifying a problem to delivering a functional MVP.
 
-The Vinci Project is developed as a portfolio initiative showcasing the process of identifying real problems, designing effective solutions, and building functional MVPs.
+Rather than focusing on demonstrating expertise in a specific programming language or complex algorithms, The Vinci Project emphasizes product thinking, practical problem solving, software architecture, clean documentation, and the development of industry-inspired tools. Each project represents a step toward understanding how modern software can create value for professionals, businesses, and organizations.
 
 # Products
 
