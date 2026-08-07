@@ -1,4 +1,4 @@
-[# The Vinci Project](https://devloperrps.github.io/The-Vinci-Project/)
+# The Vinci Project 
 
 [The Vinci Project](https://devloperrps.github.io/The-Vinci-Project/) is a collection of software products developed to solve real-world business and productivity challenges. Rather than creating isolated coding projects, the goal is to design industry-inspired applications that demonstrate practical software development, product thinking, and modern engineering practices.
 
