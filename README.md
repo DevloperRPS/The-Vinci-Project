@@ -1,6 +1,6 @@
-# The Vinci Project
+[# The Vinci Project](https://devloperrps.github.io/The-Vinci-Project/)
 
-The Vinci Project is a collection of software products developed to solve real-world business and productivity challenges. Rather than creating isolated coding projects, the goal is to design industry-inspired applications that demonstrate practical software development, product thinking, and modern engineering practices.
+[The Vinci Project](https://devloperrps.github.io/The-Vinci-Project/) is a collection of software products developed to solve real-world business and productivity challenges. Rather than creating isolated coding projects, the goal is to design industry-inspired applications that demonstrate practical software development, product thinking, and modern engineering practices.
 
 Each product within the Vinci ecosystem focuses on a specific problem while maintaining a consistent design philosophy, documentation style, and user experience.
 
@@ -8,13 +8,13 @@ Each product within the Vinci ecosystem focuses on a specific problem while main
 
 <img width="1920" height="1080" alt="logo-of-the-vinci-project" src="https://github.com/user-attachments/assets/c01e6402-a0a1-4ab0-b61d-0c7a74931ee6" />
 
-The name The Vinci Project is inspired by **Leonardo da Vinci**, whose work as a polymath reflected curiosity, creativity, and the pursuit of knowledge across multiple disciplines. Rather than being limited to a single field, he explored art, engineering, science, anatomy, and invention, leaving behind a remarkable collection of ideas and innovations.
+The name [The Vinci Project](https://devloperrps.github.io/The-Vinci-Project/) is inspired by **Leonardo da Vinci**, whose work as a polymath reflected curiosity, creativity, and the pursuit of knowledge across multiple disciplines. Rather than being limited to a single field, he explored art, engineering, science, anatomy, and invention, leaving behind a remarkable collection of ideas and innovations.
 
 Inspired by that philosophy, The Vinci Project is envisioned as a collection of practical software products, with each application addressing a different real-world problem. While every project serves a unique purpose, together they represent a portfolio dedicated to continuous learning, product development, and building solutions that are both practical and meaningful.
 
 # Vision
 
-The Vinci Project is a personal portfolio initiative created to explore, research, and develop software inspired by real-world industry needs. Its primary objective is to understand how practical digital products are designed, structured, and built, while documenting the complete journey from identifying a problem to delivering a functional MVP.
+The [Vinci Project](https://devloperrps.github.io/The-Vinci-Project/) is [My Personal Portfolio](https://devloperrps.github.io/developerrps/) initiative created to explore, research, and develop software inspired by real-world industry needs. Its primary objective is to understand how practical digital products are designed, structured, and built, while documenting the complete journey from identifying a problem to delivering a functional MVP.
 
 Rather than focusing on demonstrating expertise in a specific programming language or complex algorithms, The Vinci Project emphasizes product thinking, practical problem solving, software architecture, clean documentation, and the development of industry-inspired tools. Each project represents a step toward understanding how modern software can create value for professionals, businesses, and organizations.
 
