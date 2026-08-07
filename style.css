@@ -35,9 +35,10 @@ padding:35px 20px;
 
 .logo{
 display:block;
-width:800px !important;
-height:800px !important;
+width:400px;
+height:400px;
 margin:30px auto;
+background:red;
 object-fit:contain;
 }
 
