@@ -35,11 +35,12 @@ padding:35px 20px;
 
 .logo{
 display:block;
-width:400px;
-height:400px;
+width:60%;
+aspect-ratio:16/9;
+height:auto;
 margin:30px auto;
-background:red;
 object-fit:contain;
+max-width:500px;
 }
 
 h2{
